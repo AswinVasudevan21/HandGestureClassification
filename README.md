@@ -45,4 +45,4 @@ Dataset split = 80% for training 10% each for validation and test
 <img height="300px" src="https://github.com/AswinVasudevan21/HandGestureClassification/blob/master/graphs/accuracy.png">
 
 ### Future Work:
-Reduce the complexity in annotation and deploy it in android mobiles to predict hand gesture.
+Experiment with hyper parameters and add dropout. 
