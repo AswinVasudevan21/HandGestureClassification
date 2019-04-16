@@ -1,5 +1,9 @@
 [![build passing](https://travis-ci.org/ukubuka/ukubuka-core.svg?branch=master	)](https://github.com/AswinVasudevan21/HandGestureClassification/blob/master/README.md)
-[![python version](	https://img.shields.io/pypi/pyversions/3.svg)](https://github.com/AswinVasudevan21/HandGestureClassification/blob/master/README.md)
+[![python version](	https://img.shields.io/badge/Python-3.6-blue.svg)](https://github.com/AswinVasudevan21/HandGestureClassification/blob/master/README.md)
+[![tensorflow version](	https://img.shields.io/badge/Tensorflow-1.2-yellow.svg)](https://github.com/AswinVasudevan21/HandGestureClassification/blob/master/README.md)
+[![keras version](	https://img.shields.io/badge/Keras-2.6-green.svg)](https://github.com/AswinVasudevan21/HandGestureClassification/blob/master/README.md)
+
+
 
 
 # HandGestureClassification
