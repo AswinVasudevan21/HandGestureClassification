@@ -8,7 +8,7 @@
 
 # HandGestureClassification
 ### Objective 
-The goal of this project is to classify the hand gestures using a dataset comprising of depth images obtained from a Kinect v2 Camera. The accuracy of the model trained in my system is 99.14%
+The goal of this project is to classify the hand gestures using a dataset comprising of depth images obtained from a Kinect v2 Camera. The accuracy of the model trained in my machine is 99.14%
 
 ### Dataset
 https://www.kaggle.com/gti-upm/depthgestrecog
